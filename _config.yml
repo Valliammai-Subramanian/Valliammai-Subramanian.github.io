@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning and Statistical Signal Processing"
+title                    : "Software Developer"
 title_separator          : "|"
-name                     : &name "Adaickalavan" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Valliammai" # &name is a YAML anchor which can be *referenced later
 description              : &description "If nothing goes right, go left!"
-url                      : "https://adaickalavan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://valliammai-subramanian.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
-repository               : "Adaickalavan/adaickalavan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Valliammai-Subramanian/Valliammai-Subramanian.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #/assets/images/machine_small.JPG # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "HVJLbbVbytcBiUKuLu6NRYO9ESoqKaXWQgNnyrMM6lo"
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -66,35 +66,35 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links                  : "https://www.linkedin.com/in/adaickalavan" # An array of links to social media profiles
+  links                  : "https://www.linkedin.com/in/valliammai-subramanian-62ba37110/" # An array of links to social media profiles
 
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-100093642-1"
+    tracking_id          : #"UA-100093642-1"
 
 
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/Adai-774x781.jpg" # e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Valliammai.jpg" # e.g. "/assets/images/bio-photo.jpg"
   bio              : "If nothing goes right, go left!"
-  location         : "Malaysia & Singapore"
-  email            : adaickalavan@gmail.com
-  uri              : "https://adaickalavan.github.io/"
+  location         : "Singapore"
+  email            : valliammai.kothai@gmail.com
+  uri              : "https://valliammai-subramanian.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adaickalavan"
+  github           : "valliammai-subramanian"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "adaickalavan"
+  linkedin         : "valliammai-subramanian-62ba37110"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
