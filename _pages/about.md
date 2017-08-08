@@ -8,12 +8,8 @@ last_modified_at: 2017-06-03
 <a href="/publications/" class="btn btn--large btn--inverse">Publications</a>
 <a href="/assets/docs/cv.pdf" class="btn btn--large btn--inverse">CV</a>
 
-Adaickalavan received B.Eng. and Ph.D. degrees in Electrical Engineering from the [National University of Singapore](http://www.nus.edu.sg/) in 2010 and 2014, respectively. His Ph.D. was in Statistical Signal Processing and Adaptive Filter Theory, with a focus on novel adaptive learning algorithms and was applied to the field of Optical Communication <a href="/portfolio/cwdaml_and_adaptivecwda/">receiver design</a>. His Ph.D. advisors were [Prof. Kam Pooi Yuen](https://www.ece.nus.edu.sg/stfpage/elekampy/) and [Prof. Kim Hoon](https://sites.google.com/site/hoonkimlabs/people).
+Valliammai received B.Sc. and M.Sc. degrees in Computer Science from the [Alagappa University,India](http://www.alagappauniversity.ac.in/) and [Madurai Kamaraj University,India](http://www.mkuniversity.org/) in 2014 and 2016, respectively.
 
-From 2014 to 2017, he was a R&D Engineer - Statistical Signal Processing and Machine Learning, at NXP Semiconductors Singapore, where he (i) lead the Type-B NFC ASK/PSK digital baseband receiver design and (ii) was engaged in temporary traffic sign recognition tasks using convolutional neural networks for self driving car application. Since 2017, he has been a Senior R&D Engineer - Machine Learning, with Panasonic Singapore, working on intelligent driver distraction state modeling and prediction via deep learning from face and eye sensor data. 
-
-His research interest includes machine learning, deep learning, artifical intelligence, and digital signal processing. He has worked on machine learning problems in the fields of object tracking, pattern classification, image recognition, and real-time-series data. Strong in mathematical modelling, stochastic processes, optimization theory, algorithm development, and bench-top experimental skills. 
-
-Dr. Adaickalavan is a member of [Institute of Electrical and Electronic Engineers - IEEE](https://www.ieee.org/index.html). He is an ad-hoc reviewer for (i) [Optics Express - Optical Society of America](http://www.osa.org/en-us/home/), (ii) [Photonics Technology Letters - IEEE](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=68), and (iii) [Electronic Letters - IET](http://digital-library.theiet.org/content/journals/el).
+From June 2016 to October 2016, She was a Software Development Analyst Intern, at Wowappbakery (a Startup Company) Chennai-India,  where She (i) worked extensively with Android studio to develop Web app and (ii) designed user responsive layouts and controls and handled troubleshooting and testing of the Web app. From November 2016 to May 2017, She has been a Lecturer - Lady Doak College,Madurai -India, taught year 1 and year 2 computer science classes comprising more than 200 students. 
 
 ---
