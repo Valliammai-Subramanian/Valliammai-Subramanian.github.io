@@ -79,7 +79,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/Valliammai.jpg" # e.g. "/assets/images/bio-photo.jpg"
-  bio              : "If nothing goes right, go left!"
+  bio              : 
   location         : "Singapore"
   email            : valliammai.kothai@gmail.com
   uri              : "https://valliammai-subramanian.github.io/"
