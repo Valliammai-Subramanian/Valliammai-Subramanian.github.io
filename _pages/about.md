@@ -5,8 +5,7 @@ last_modified_at: 2017-06-03
 ---
 
 <a href="/about/" class="btn btn--large btn--inverse">Profile</a>
-<a href="/publications/" class="btn btn--large btn--inverse">Publications</a>
-<a href="/assets/docs/cv.pdf" class="btn btn--large btn--inverse">CV</a>
+<a href="/assets/docs/Valliammai Subramanian.pdf" class="btn btn--large btn--inverse">CV</a>
 
 Valliammai received B.Sc. and M.Sc. degrees in Computer Science from the [Alagappa University,India](http://www.alagappauniversity.ac.in/) and [Madurai Kamaraj University,India](http://www.mkuniversity.org/) in 2014 and 2016, respectively.
 
