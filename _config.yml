@@ -236,7 +236,7 @@ timezone: #Asia/Kuala_Lumpur # http://en.wikipedia.org/wiki/List_of_tz_database_
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
