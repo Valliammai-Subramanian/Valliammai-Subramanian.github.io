@@ -1,4 +1,4 @@
----
+<!---
 title: "Machine Learning - Andrew Ang"
 excerpt: "Course review and resources"
 header:
@@ -31,4 +31,4 @@ The [repository](https://github.com/Adaickalavan/Machine-Learning-Andrew-Ang-Sta
 * Projects - Instructions and Matlab Codes
 
 ### Verified Certificate
-See [certificate](https://www.coursera.org/account/accomplishments/certificate/8D5KJQEQZ4MT)
+See [certificate](https://www.coursera.org/account/accomplishments/certificate/8D5KJQEQZ4MT)-->

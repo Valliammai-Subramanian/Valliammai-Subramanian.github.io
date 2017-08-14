@@ -1,4 +1,4 @@
----
+<!---
 title: "MNIST"
 excerpt: "Neural network and convolutional neural networks for MNIST"
 header:
@@ -38,4 +38,4 @@ handwritten digit recognition from MNIST database. Test set accuracy is >94%.
 ### MNIST CNN Theano
 Implemented a convolutional neural network (2 convolution + max pooling layers consisting of 20 and 50
 filters with 2-by-2 subsampling, fully-connected hidden layer using 500 nodes with tanh activation, 10 output nodes with softmax activation, and negative log-likelihood cost function) in Python using Theano for handwritten digit recognition from MNIST database. Test set accuracy is >98%. 
-
+-->

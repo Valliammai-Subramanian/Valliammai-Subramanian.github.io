@@ -1,4 +1,4 @@
----
+<!---
 title: "Learning from data - Yaser S.Abu Mostafa"
 excerpt: "Course review and resources"
 header:
@@ -32,3 +32,4 @@ The [repository](https://github.com/Adaickalavan/Learning-from-Data-CS1156X-Yase
 
 ### Verified Certificate
 See [certificate](https://courses.edx.org/certificates/7ffb9c6e8015419b9359204d1612250a)
+-->

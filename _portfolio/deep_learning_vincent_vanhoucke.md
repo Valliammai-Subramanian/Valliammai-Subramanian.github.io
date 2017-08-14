@@ -1,4 +1,4 @@
----
+<!---
 title: "Deep Learning - Vincent Vanhoucke"
 excerpt: "Course review and resources"
 header:
@@ -26,3 +26,4 @@ This is a hands-on deep learning class taught by Vincent Vanhoucke, Principal En
 
 ### Syllabus
 Machine Learning, TensorFlow, and NotMNIST
+-->

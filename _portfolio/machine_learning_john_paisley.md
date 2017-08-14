@@ -1,4 +1,4 @@
----
+<!---
 title: "Machine Learning - John Paisley"
 excerpt: "Course review and resources"
 mathjax: true
@@ -160,3 +160,4 @@ Shown below is the maximization of the log joint likelihood objective function v
   <img src="/assets/images/machine_learning_john_paisley_p04_02.jpg" alt="Log joint likelihood objective function">
   <figcaption>Log joint likelihood objective function</figcaption>
 </figure>
+-->

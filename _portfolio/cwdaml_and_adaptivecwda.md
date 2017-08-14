@@ -1,4 +1,4 @@
----
+<!---
 title: "CWDAML and Adaptive CWDA Algorithm"
 excerpt: "Adaptive learning algorithms proposed in my PhD."
 mathjax : true
@@ -109,4 +109,4 @@ An adaptive complex-weighted decision-aided carrier estimator is introduced, who
 [^15]: L. G. Kazovsky, G. Kalogerakis, and W.-T. Shaw, “Homodyne phase-shift keying systems: past challenges and future opportunities,” J. Lightw. Technol., vol. 24, no. 12, pp. 4876–4884, Dec. 2006.
 [^16]: C. Berrou, A. Glavieux, and P. Thitimajshima, “Near Shannon limit error correcting coding and decoding: turbo-codes,” in Proc. ICC, Geneva, Switzerland, 1993, pp. 1064–1070.
 [^17]: S.-Y. Chung, G. D. Forney, Jr., T. J. Richardson, and R. Urbanke, “On the design of low-density parity-check codes within 0.0045 db of the Shannon limit,” IEEE Commun. Lett., vol. 5, no. 2, pp. 58–60, Feb. 2001.
-[^18]: C. Berrou, “The ten-year-old turbo codes are entering into service,” IEEE Commun. Mag., vol. 41, no. 8, pp. 110–116, Aug. 2003.
+[^18]: C. Berrou, “The ten-year-old turbo codes are entering into service,” IEEE Commun. Mag., vol. 41, no. 8, pp. 110–116, Aug. 2003.-->
