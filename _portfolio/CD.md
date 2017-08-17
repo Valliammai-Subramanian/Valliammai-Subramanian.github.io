@@ -16,7 +16,7 @@ mathjax: true
 This resource is being prepared by myself. I believe this resource accompanying notes/textbook is good to gain a basic knowledge and clear understanding of Compiler Design for the beginners.
 
 ### Repository
-The [repository](https://github.com/Valliammai-Subramanian/Java) consists of the following: 
+The [repository](https://github.com/Valliammai-Subramanian/Compiler-Design) consists of the following: 
 * Lectures - Notes
 * Reference Books - Textbooks
 
