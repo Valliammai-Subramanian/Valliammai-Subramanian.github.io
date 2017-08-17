@@ -1,8 +1,8 @@
 ---
-title: "Java"
+title: "CD"
 excerpt: "Resources"
 header:
-  teaser: /assets/images/Java.jpg
+  teaser: /assets/images/CD.jpg
 
 mathjax: true
 
@@ -13,7 +13,7 @@ mathjax: true
 ## Review
 
 ### Info
-This resource is being prepared by myself. I believe this resource accompanying notes/textbook is good to gain a basic knowledge and clear understanding of Java for the beginners.
+This resource is being prepared by myself. I believe this resource accompanying notes/textbook is good to gain a basic knowledge and clear understanding of Compiler Design for the beginners.
 
 ### Repository
 The [repository](https://github.com/Valliammai-Subramanian/Java) consists of the following: 
