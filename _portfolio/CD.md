@@ -1,5 +1,5 @@
 ---
-title: "CD"
+title: "Compiler Design"
 excerpt: "Resources"
 header:
   teaser: /assets/images/CD.jpg
