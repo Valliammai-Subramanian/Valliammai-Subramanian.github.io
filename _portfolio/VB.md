@@ -2,7 +2,7 @@
 title: "Visual Basic"
 excerpt: "Resources"
 header:
-  teaser: /assets/images/Java.jpg
+  teaser: /assets/images/VB.jpg
 
 mathjax: true
 
