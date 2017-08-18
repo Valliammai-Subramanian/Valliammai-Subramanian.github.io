@@ -66,7 +66,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links                  : "https://www.linkedin.com/in/valliammai-subramanian-62ba37110/" # An array of links to social media profiles
+  links                  : "https://www.linkedin.com/in/valliammai-subramanian" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "valliammai-subramanian-62ba37110"
+  linkedin         : "valliammai-subramanian"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
