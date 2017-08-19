@@ -17,12 +17,24 @@ The [repository](https://github.com/Valliammai-Subramanian/Java) consists of the
 * Lectures - Notes
 
 ## Syllabus
+
 ### Lecture 1
+Get an introduction to the structure, syntax, and programming paradigm of the Java language and platform in this lecture.
+
 ### Lecture 2
+Learn more about Java with this lecture discovering more details about datatypes and arrays.
+
 ### Lecture 3
+Now you've learned how to declare and initialize variables, you probably want to know how to do something with them by learning about the operators of the Java.
+
 ### Lecture 4
+Learn Java applets in simple and easy steps starting from basic to advanced concepts with examples.
+
 ### Lecture 5
+Know the complete explanation of applet architecture and how to use html tag with applets from this lecture.
+
 ### Lecture 6
+Get introduced with all the applet methods , their syntax and usages through this lecture.
 
 Contents are being added in stages. Check back later for more updates.
 {: .notice--warning}
