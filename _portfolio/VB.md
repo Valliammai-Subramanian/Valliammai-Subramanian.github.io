@@ -19,16 +19,16 @@ The [repository](https://github.com/Valliammai-Subramanian/Visual-Basic) consist
 ## Syllabus
 
 ### Lecture 1
+Know more about Data Repeater Control from this lecture. Step by Step procedure of using Data Repeater Control in Visual basic is explained in this lecture. Also, Learn about usage of Image Combo Box Control in Visual Basic.
 
 ### Lecture 2
+Get a knowledge about DB List and Combo Controls & Microsoft List and Combo Controls in Visual Basic.
 
 ### Lecture 3
+Learn About Using Microsoft FlexGrid and DataGrid controls and connecting database with them through the lecture.
 
 ### Lecture 4
-
-### Lecture 5
-
-### Lecture 6
+Get a better understanding about Object Embedding and Linking as (i) How it works? (ii) OLE Container Control and resizing the container (iii) Embedded Objects and (iv) Automation Objects with the lecture.
 
 Contents are being added in tages. Check back later for more updates.
 {: .notice--warning}
