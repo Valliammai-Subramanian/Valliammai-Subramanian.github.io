@@ -17,12 +17,18 @@ The [repository](https://github.com/Valliammai-Subramanian/Compiler-Design) cons
 * Lectures - Notes
 
 ## Syllabus
+
 ### Lecture 1
+Learn Compiler Design basics along with Overview and Lexical Analysis through this lecture
+
 ### Lecture 2
+Get Intoduction about Context Free Grammar ---> Notational Conventions ---> Sentencial Form ---> Language of a Grammar ---> Derivation tree/Parse tree ---> Ambiguous Grammar from this lecture
+
 ### Lecture 3
+The conceptual view of Syntax-Directed Translation is delivered through the lecture
+
 ### Lecture 4
-### Lecture 5
-### Lecture 6
+Know more about the Syntax-Directed Translation of Intermediate Code and the Semantic rules for the translation with the assistance of the lecture.
 
 Contents are being added in stages. Check back later for more updates.
 {: .notice--warning}

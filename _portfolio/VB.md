@@ -17,11 +17,17 @@ The [repository](https://github.com/Valliammai-Subramanian/Visual-Basic) consist
 * Lectures - Notes
 
 ## Syllabus
+
 ### Lecture 1
+
 ### Lecture 2
+
 ### Lecture 3
+
 ### Lecture 4
+
 ### Lecture 5
+
 ### Lecture 6
 
 Contents are being added in tages. Check back later for more updates.
