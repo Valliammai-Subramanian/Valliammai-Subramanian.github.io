@@ -6,7 +6,7 @@ header:
 mathjax: true
 feature_row:
   - image_path: /assets/images/CD2.jpg
-  - image_path: /assets/images/CD4.jpg
+  - image_path: /assets/images/CD1.jpg
   - image_path: /assets/images/CD3.jpg
 allery_04_01:
   - url: /assets/images/CD.jpg
@@ -14,8 +14,8 @@ allery_04_01:
   - url: /assets/images/CD2.jpg
     image_path: /assets/images/CD2.jpg
 gallery_07_02:
-  - url: /assets/images/CD4.jpg
-    image_path: /assets/images/CD4.jpg
+  - url: /assets/images/CD1.jpg
+    image_path: /assets/images/CD1.jpg
   - url: /assets/images/CD3.jpg
     image_path: /assets/images/CD3.jpg    
 ---
