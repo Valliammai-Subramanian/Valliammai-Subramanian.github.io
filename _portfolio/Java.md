@@ -3,7 +3,24 @@ title: "Java"
 excerpt: "Resources"
 header:
   teaser: /assets/images/Java.jpg
+  mathjax: true
+feature_row:
+  - image_path: /assets/images/Java1.jpg
+  - image_path: /assets/images/Java5.jpg
+  - image_path: /assets/images/Java2.jpg
+allery_04_01:
+  - url: /assets/images/Java.jpg
+    image_path: /assets/images/Java.jpg
+  - url: /assets/images/Java1.jpg
+    image_path: /assets/images/Java1.jpg
+gallery_07_02:
+  - url: /assets/images/Java5.jpg
+    image_path: /assets/images/Java5.jpg
+  - url: /assets/images/Java2.jpg
+    image_path: /assets/images/Java2.jpg  
 ---
+
+{% include feature_row %}
 
 {% include toc %}
 

@@ -3,7 +3,24 @@ title: "Visual Basic"
 excerpt: "Resources"
 header:
   teaser: /assets/images/VB.jpg
+  mathjax: true
+feature_row:
+  - image_path: /assets/images/VB2.jpg
+  - image_path: /assets/images/VB3.jpg
+  - image_path: /assets/images/VB5.jpg
+allery_04_01:
+  - url: /assets/images/VB.jpg
+    image_path: /assets/images/VB.jpg
+  - url: /assets/images/VB2.jpg
+    image_path: /assets/images/VB2.jpg
+gallery_07_02:
+  - url: /assets/images/VB3.jpg
+    image_path: /assets/images/VB3.jpg
+  - url: /assets/images/VB5.jpg
+    image_path: /assets/images/VB5.jpg 
 ---
+
+{% include feature_row %}
 
 {% include toc %}
 

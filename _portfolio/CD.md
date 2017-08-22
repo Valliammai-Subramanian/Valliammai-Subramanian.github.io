@@ -3,7 +3,24 @@ title: "Compiler Design"
 excerpt: "Resources"
 header:
   teaser: /assets/images/CD.jpg
+mathjax: true
+feature_row:
+  - image_path: /assets/images/CD2.jpg
+  - image_path: /assets/images/CD4.jpg
+  - image_path: /assets/images/CD3.jpg
+allery_04_01:
+  - url: /assets/images/CD.jpg
+    image_path: /assets/images/CD.jpg
+  - url: /assets/images/CD2.jpg
+    image_path: /assets/images/CD2.jpg
+gallery_07_02:
+  - url: /assets/images/CD4.jpg
+    image_path: /assets/images/CD4.jpg
+  - url: /assets/images/CD3.jpg
+    image_path: /assets/images/CD3.jpg    
 ---
+
+{% include feature_row %}
 
 {% include toc %}
 
