@@ -47,5 +47,5 @@ Learn About Using Microsoft FlexGrid and DataGrid controls and connecting databa
 ### Lecture 4
 Get a better understanding about Object Embedding and Linking as (i) How it works? (ii) OLE Container Control and resizing the container (iii) Embedded Objects and (iv) Automation Objects with the lecture.
 
-Contents are being added in tages. Check back later for more updates.
+Contents are being added in stages. Check back later for more updates.
 {: .notice--warning}
