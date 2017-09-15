@@ -5,7 +5,7 @@ feature_row:
 
 ---
 
-Below is my personal guide to self learn the art of Software Development. It is assumed that you have substantial prior knowledge of computing, programming, and testing.</p>
+<p>Below is my personal guide to self learn the art of Software Development. It is assumed that you have substantial prior knowledge of computing, programming, and testing.</p>
 
 <p>A plethora of online courses are on offer for the field of Software Development by various online course platforms. Some of the notable online course websites are:</p>
 
