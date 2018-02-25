@@ -6,18 +6,18 @@ header:
 mathjax: true
 feature_row:
   - image_path: /assets/images/Git2.jpg
-  - image_path: /assets/images/Git3.png
-  - image_path: /assets/images/Git4.png
+  - image_path: /assets/images/Git3.jpg
+  - image_path: /assets/images/Git4.jpg
 gallery_04_01:
   - url: /assets/images/Git1.png
     image_path: /assets/images/Git1.png
   - url: /assets/images/Git2.jpg
     image_path: /assets/Git2.jpg
 gallery_07_02:
-  - url: /assets/images/Git3.png
-    image_path: /assets/images/Git3.png
-  - url: /assets/images/Git4.png
-    image_path: /assets/images/Git4.png
+  - url: /assets/images/Git3.jpg
+    image_path: /assets/images/Git3.jpg
+  - url: /assets/images/Git4.jpg
+    image_path: /assets/images/Git4.jpg
 ---
 
 {% include feature_row %}
