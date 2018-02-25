@@ -38,11 +38,13 @@ Effective use of version control is an important and useful skill for any develo
 
 ### Syllabus
 
-LESSON 1 Navigating a Commit History<br>
-LESSON 2 Creating and Modifying a Repository<br>
-LESSON 3 Using GitHub to Collaborate<br>
+<ul>
+<li>Navigating a Commit History</li>
+<li>Creating and Modifying a Repository</li>
+<li>Using GitHub to Collaborate</li>
+</ul>
 
-## Project: Self Work
+## Project
 
-<a href="https://valliammai-subramanian.github.io/">My GitHub Work</a>
+Creation of this website is an inspiration after completion of Github course. Feel free to use my templates or can fork my repository.
 
