@@ -46,5 +46,5 @@ Effective use of version control is an important and useful skill for any develo
 
 ## Project
 
-Creation of this website is an inspiration after completion of Github course. Feel free to use my templates or can fork my repository.
+Creation of this website is an inspiration after completion of Github course. Feel free to use my templates or can fork my repository to create your own websites.
 
