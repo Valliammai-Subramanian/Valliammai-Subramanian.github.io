@@ -2,22 +2,22 @@
 title: "GitHub - Caroline Buckey-Sarah Spikes"
 excerpt: "Course review and resources"
 header:
-  teaser: /assets/images/Artificial_Intelligence_ColumbiaX.jpg
+  teaser: /assets/images/Git1.jpg
 mathjax: true
 feature_row:
-  - image_path: /assets/images/artificial_intelligence_p02_02.jpg
-  - image_path: /assets/images/artificial_intelligence_p03_04.jpg
-  - image_path: /assets/images/artificial_intelligence_p04_03.jpg
+  - image_path: /assets/images/Git2.jpg
+  - image_path: /assets/images/Git3.jpg
+  - image_path: /assets/images/Git4.jpg
 gallery_04_01:
-  - url: /assets/images/artificial_intelligence_p02_01.jpg
-    image_path: /assets/images/artificial_intelligence_p02_01.jpg
-  - url: /assets/images/artificial_intelligence_p02_02.jpg
-    image_path: /assets/images/artificial_intelligence_p02_02.jpg
+  - url: /assets/images/Git1.jpg
+    image_path: /assets/images/Git1.jpg
+  - url: /assets/images/Git2.jpg
+    image_path: /assets/Git2.jpg
 gallery_07_02:
-  - url: /assets/images/artificial_intelligence_p03_04.jpg
-    image_path: /assets/images/artificial_intelligence_p03_04.jpg
-  - url: /assets/images/artificial_intelligence_p03_03.jpg
-    image_path: /assets/images/artificial_intelligence_p03_03.jpg
+  - url: /assets/images/Git3.jpg
+    image_path: /assets/images/Git3.jpg
+  - url: /assets/images/Git4.jpg
+    image_path: /assets/images/Git4.jpg
 ---
 
 {% include feature_row %}
@@ -38,9 +38,9 @@ Effective use of version control is an important and useful skill for any develo
 
 ### Syllabus
 
-LESSON 1 Navigating a Commit History
-LESSON 2 Creating and Modifying a Repository
-LESSON 3 Using GitHub to Collaborate
+LESSON 1 Navigating a Commit History<br>
+LESSON 2 Creating and Modifying a Repository<br>
+LESSON 3 Using GitHub to Collaborate<br>
 
 ## Project: Self Work
 
