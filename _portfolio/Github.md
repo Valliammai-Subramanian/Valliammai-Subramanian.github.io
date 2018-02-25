@@ -2,22 +2,22 @@
 title: "GitHub - Caroline Buckey-Sarah Spikes"
 excerpt: "Course review and resources"
 header:
-  teaser: /assets/images/Git1.jpg
+  teaser: /assets/images/Git1.png
 mathjax: true
 feature_row:
   - image_path: /assets/images/Git2.jpg
-  - image_path: /assets/images/Git3.jpg
-  - image_path: /assets/images/Git4.jpg
+  - image_path: /assets/images/Git3.png
+  - image_path: /assets/images/Git4.png
 gallery_04_01:
-  - url: /assets/images/Git1.jpg
-    image_path: /assets/images/Git1.jpg
+  - url: /assets/images/Git1.png
+    image_path: /assets/images/Git1.png
   - url: /assets/images/Git2.jpg
     image_path: /assets/Git2.jpg
 gallery_07_02:
-  - url: /assets/images/Git3.jpg
-    image_path: /assets/images/Git3.jpg
-  - url: /assets/images/Git4.jpg
-    image_path: /assets/images/Git4.jpg
+  - url: /assets/images/Git3.png
+    image_path: /assets/images/Git3.png
+  - url: /assets/images/Git4.png
+    image_path: /assets/images/Git4.png
 ---
 
 {% include feature_row %}
