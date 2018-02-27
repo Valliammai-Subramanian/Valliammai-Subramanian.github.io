@@ -51,14 +51,14 @@ This course is on learning the basics of Android and Java programming, and take 
 How to build an app’s layout; How to make your app interactive using buttons and changing text; How to build an app with multiple screens; How to establish networking in apps; Usage of SQL and SQLite, to store large sets of data locally on an Android device.
 
 ### Resources
-The Resources for these course is available online(Free course) in the above mentioned websites.
+The Resources for these courses are available online(Free course) in the above mentioned websites.
 
 ## Course 2 Project: User Input
 
-We are to build a coffee ordering app. This app includes the number of coffees ordered by the customers which will be used with button controls and the toppings for the order. The price will be calculated accordingly and the order summary will be generated to the customer with name(given as input) once the order is placed to the shop keeper.The shop keeper is the administrator and the customers are the users an there is no database(back-end) for storage. This app will place the live coffee orders to the shop accordance with the input given by the customer. 
+We are to build a coffee ordering app. This app includes the number of coffees ordered by the customers and the toppings or flavours for the order with button controls. The price will be calculated accordingly and the order summary will be generated to the customer with name(given as input) once the order is placed to the shop keeper.The shop keeper is the administrator and the customers are the users and there is no database(back-end) for storage. This app will place the live coffee orders to the shop accordance with the input given by the customer. 
 
 
 ## Course 4 Project: Networking
 
-We are to build a flight scheduling app. This app includes the departure and the arrival informtions of all the flights with gate number for passengers and belt number for passenger baggages. On building this app we have undergone the use of threads to do time consuming tasks so that we made the app's user interface more fast and responsive. The networking is mainly entertained with HTTP requests and responses and connection establishment.
+We are to build a flight scheduling app. This app includes the departure and the arrival informations of all the flights with gate number for passengers and belt number for passenger's baggages. On building this app, we have undergone the use of threads to do time consuming tasks so that we made the app's user interface more fast and responsive. The networking is mainly entertained with HTTP requests and responses and connection establishment.
 
