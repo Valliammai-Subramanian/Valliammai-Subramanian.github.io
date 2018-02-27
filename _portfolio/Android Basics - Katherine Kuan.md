@@ -55,7 +55,7 @@ The Resources for these courses are available online(Free course) in the above m
 
 ## Course 2 Project: User Input
 
-We are to build a coffee ordering app. This app includes the number of coffees ordered by the customers and the toppings or flavours for the order with button controls. The price will be calculated accordingly and the order summary will be generated to the customer with name(given as input) once the order is placed to the shop keeper.The shop keeper is the administrator and the customers are the users and there is no database(back-end) for storage. This app will place the live coffee orders to the shop accordance with the input given by the customer. 
+We are to build a coffee ordering app. This app includes the number of coffees ordered by the customers and the toppings or flavours for the order with button controls. The price will be calculated accordingly and the order summary will be generated to the customer with name(given as input) once the order is placed to the shop keeper.The shop keeper is the administrator and the customers are the users and there is no database(back-end) for storage. This app will place the live coffee orders to the shop in accordance with the input given by the customers. 
 
 
 ## Course 4 Project: Networking
