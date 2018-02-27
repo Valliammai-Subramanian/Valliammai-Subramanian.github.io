@@ -31,10 +31,13 @@ gallery_07_02:
 
 ### Info
 
-This course on use of Github and Git is much of about version control for code. The course is well articulated in Coursera. The class has 3 weeks of lectures which translates the theory learnt to solving real-life problems.
+This course on use of Github and Git is much of about version control for code. The course is well articulated in Udacity. The class has 3 weeks of lectures which translates the theory learnt to solving real-life problems.
 
 ### About the Course 
 Effective use of version control is an important and useful skill for any developer working on long-lived (or even medium-lived) projects, especially if more than one developer is involved. This course, built with input from GitHub, will introduce the basics of using version control by focusing on a particular version control system called Git and a collaboration platform called GitHub.
+
+### Resources
+The Resources for this course is available online(Free course) in the above mentioned website.
 
 ### Syllabus
 

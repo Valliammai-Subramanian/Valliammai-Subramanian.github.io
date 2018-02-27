@@ -56,6 +56,10 @@ feature_row:
 <ol>
 	<li><a href="https://www.udacity.com/course/how-to-use-git-and-github--ud775">How to use Git and GitHub</a></li>
 	<li><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Android Basics: User Interface</a></li>
+	<li><a href="https://www.udacity.com/course/android-basics-user-input--ud836">Android Basics: User Input</a></li>
+    <li><a href="https://www.udacity.com/course/android-basics-multiscreen-apps--ud839">Android Basics: Multiscreen Apps</a></li>
+	<li><a href="https://www.udacity.com/course/android-basics-networking--ud843">Android Basics: Networking</a></li>
+    <li><a href="https://www.udacity.com/course/android-basics-data-storage--ud845">Android Basics: Data Storage</a></li>
 	<li><a href="https://www.udemy.com/net-coding-best-practices-series-1/learn/v4/overview">.NET Coding Best Practices </a></li>
 </ol>
  
