@@ -35,7 +35,7 @@ gallery_07_02:
 
 
 ### Info
-This course is on learning the basics of Android and Java programming, and take the first step on your journey to becoming an Android developer! This course is designed for students who are new to programming, and want to learn how to build Android apps. You don’t need any programming experience to take this course. If you’ve been using a smartphone to surf the web and chat with friends, then you’re perfect to take this course! The course is well articulated in Udacit. The class has 5 different sections of courses to learn the complete android app building skills which translates the theory learnt to real-life problems. They are as follows:
+This course is on learning the basics of Android and Java programming, and take the first step on your journey to becoming an Android developer! This course is designed for students who are new to programming, and want to learn how to build Android apps. You don’t need any programming experience to take this course. If you’ve been using a smartphone to surf the web and chat with friends, then you’re perfect to take this course! The course is well articulated in Udacity. The class has 5 different sections of courses to learn the complete android app building skills which translates the theory learnt to real-life problems. They are as follows:
 
 <ul>
 <li>User Interface</li>
@@ -60,5 +60,5 @@ We are to build a coffee ordering app. This app includes the number of coffees o
 
 ## Course 4 Project: Networking
 
-We are to build a flight scheduling app. This app includes the departure and the arrival informtions of all the flights with gate number for passengers and belt number for passenger baggages. On building this app we have undergone the use of threads to do time consuming tasks so that we made the app's user interface more fast and responsive. The networking is mainly entertained with Http Request and Responses and Connection establishment.
+We are to build a flight scheduling app. This app includes the departure and the arrival informtions of all the flights with gate number for passengers and belt number for passenger baggages. On building this app we have undergone the use of threads to do time consuming tasks so that we made the app's user interface more fast and responsive. The networking is mainly entertained with HTTP requests and responses and connection establishment.
 
