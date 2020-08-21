@@ -74,13 +74,12 @@ analytics:
   google:
     tracking_id          : "UA-104804429-1"
 
-
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/Valliammai.jpg" # e.g. "/assets/images/bio-photo.jpg"
   bio              : "Don't limit your challenges, challenge your limits!"
-  location         : "Singapore"
+  location         : "Ontario, Canada"
   email            : valliammai.kothai@gmail.com
   url              : "https://valliammai-subramanian.github.io/"
   bitbucket        :
