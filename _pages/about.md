@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 excerpt: "Me, Myself, and I"
-last_modified_at: 2017-06-03
+# last_modified_at: 2017-06-03
 ---
 
 Valliammai received B.Sc. and M.Sc. degrees in Computer Science from [Alagappa University](http://www.alagappauniversity.ac.in/), India and [Madurai Kamaraj University](http://www.mkuniversity.org/), India in 2014 and 2016, respectively.

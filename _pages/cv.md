@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 excerpt: "CV"
-last_modified_at: 2018-01-29
+# last_modified_at: 2018-01-29
 ---
 
 An up-to-date version of my CV is embedded below.

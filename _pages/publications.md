@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 excerpt: "Publications"
-last_modified_at: 2017-06-03
+# last_modified_at: 2017-06-03
 ---
 
 ## <a name="conferences"></a>Conferences
