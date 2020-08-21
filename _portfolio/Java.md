@@ -55,4 +55,3 @@ Get introduced with all the applet methods , their syntax and usages through thi
 
 Contents are being added in stages. Check back later for more updates.
 {: .notice--warning}
-

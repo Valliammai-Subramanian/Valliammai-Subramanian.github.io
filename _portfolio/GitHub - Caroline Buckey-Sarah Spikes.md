@@ -50,4 +50,3 @@ The Resources for this course is available online(Free course) in the above ment
 ## Project
 
 Creation of this website is an inspiration after completion of Github course. Feel free to use my templates or can fork my repository to create your own websites.
-

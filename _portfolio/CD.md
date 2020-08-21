@@ -49,4 +49,3 @@ Know more about the Syntax-Directed Translation of Intermediate Code and the Sem
 
 Contents are being added in stages. Check back later for more updates.
 {: .notice--warning}
-

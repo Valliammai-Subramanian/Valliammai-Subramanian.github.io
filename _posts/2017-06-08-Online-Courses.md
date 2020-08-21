@@ -50,7 +50,6 @@ feature_row:
 	</li>
 </ul>
 
-
 <p>Courses which I have personally taken and verify to be good are as follows. In the deluge of online courses offered currently, only the best are listed below. They are ordered in my personal suggested sequence of study. These online courses provide good teachers, sufficient theoretical fundamentals, and hands-on programming exercises, along with intuitive understanding of the subject matter.</p>
 
 <ol>
@@ -64,4 +63,3 @@ feature_row:
 </ol>
  
 <p>There are plenty of other Software Development courses available on the internet. It is a matter of trial and error in finding the good online courses. Please do share with me, if you find any other good online courses in Software Development.</p>
-

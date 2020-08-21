@@ -61,4 +61,3 @@ We are to build a coffee ordering app. This app includes the number of coffees o
 ## Course 4 Project: Networking
 
 We are to build a flight scheduling app. This app includes the departure and the arrival informations of all the flights with gate number for passengers and belt number for passenger's baggages. On building this app, we have undergone the use of threads to do time consuming tasks so that we made the app's user interface more fast and responsive. The networking is mainly entertained with HTTP requests and responses and connection establishment.
-

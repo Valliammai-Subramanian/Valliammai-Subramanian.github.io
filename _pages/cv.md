@@ -4,7 +4,9 @@ excerpt: "CV"
 last_modified_at: 2018-01-29
 ---
 
-I embed a current version of my CV below.
+An up-to-date version of my CV is embedded below.
+
+I am always open to new opportunities. Feel free to contact me if you have an interesting niche role.
 
 <a href="https://drive.google.com/uc?export=download&id=1TIFrbTNJfeuHQCcrMeK7onLHRw9q9F77" class="btn btn--info">Click here to download CV</a>
 
