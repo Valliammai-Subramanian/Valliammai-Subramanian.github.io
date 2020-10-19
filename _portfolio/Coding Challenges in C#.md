@@ -34,6 +34,7 @@ More programming challenge questions in C# will be added as time permits. Let me
 
 1. [Array Sum](#ArraySum)
 
+
 <!-- 1. [Move memory without temporary variable](#memoryMove)
 1. [Match brackets in a string](#balancedBrackets)
 1. [Sum of bits in 32-bit binary representation](#sumOfBits)
@@ -43,6 +44,7 @@ More programming challenge questions in C# will be added as time permits. Let me
 1. [Longest valid parentheses](#longestValidBrackets)
 1. [Kth largest](#kthLargest)
 1. [Mutatable priority queue](#mutatablePriorityQueue) -->
+
 
 ### Code
 The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp) contains the C# solution codes. To run each code type `dotnet run` in the command terminal.
