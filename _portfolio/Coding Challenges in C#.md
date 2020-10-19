@@ -50,7 +50,7 @@ The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-c
 
 1. <a name="ArraySum"></a> Given an array of integers, find its sum. The code should be time efficient to handle arrays of size upto 10^12. To solve this, the array is recursively divided into two halves and added in separate threads.
 
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-csharp/blob/master/app/ArraySum.cs).
+    Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/ArraySum).
 
 <!-- 1. <a name="memoryMove"></a> Move memory of an array from one location to another pointed by a new array pointer, without using temporary variables. The new and old memory regions might be overlapping. Copy the source array from the front into the destination, if they overlap at the front of the source array. Whereas, copy the source from the rear into the destination, if they overlap at the rear of the source array.
 
