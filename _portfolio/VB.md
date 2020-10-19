@@ -17,7 +17,9 @@ gallery_07_02:
   - url: /assets/images/VB3.jpg
     image_path: /assets/images/VB3.jpg
   - url: /assets/images/VB5.jpg
-    image_path: /assets/images/VB5.jpg 
+    image_path: /assets/images/VB5.jpg
+
+date: "2019-03-08"
 ---
 
 {% include feature_row %}

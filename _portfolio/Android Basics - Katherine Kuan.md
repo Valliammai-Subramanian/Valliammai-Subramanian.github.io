@@ -18,6 +18,8 @@ gallery_07_02:
     image_path: /assets/images/MultiScreens.png
   - url: /assets/images/Networking.png
     image_path: /assets/images/Networking.png
+
+date: "2019-06-06"
 ---
 
 {% include feature_row %}

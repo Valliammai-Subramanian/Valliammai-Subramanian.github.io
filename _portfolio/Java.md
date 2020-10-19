@@ -17,7 +17,9 @@ gallery_07_02:
   - url: /assets/images/Java5.jpg
     image_path: /assets/images/Java5.jpg
   - url: /assets/images/Java2.jpg
-    image_path: /assets/images/Java2.jpg  
+    image_path: /assets/images/Java2.jpg 
+    
+date: "2019-03-08"
 ---
 
 {% include feature_row %}

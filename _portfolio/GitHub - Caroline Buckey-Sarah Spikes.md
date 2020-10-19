@@ -18,6 +18,8 @@ gallery_07_02:
     image_path: /assets/images/Git3.jpg
   - url: /assets/images/Git4.jpg
     image_path: /assets/images/Git4.jpg
+
+date: "2019-06-06"
 ---
 
 {% include feature_row %}

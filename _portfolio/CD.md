@@ -17,7 +17,9 @@ gallery_07_02:
   - url: /assets/images/CD1.jpg
     image_path: /assets/images/CD1.jpg
   - url: /assets/images/CD3.jpg
-    image_path: /assets/images/CD3.jpg    
+    image_path: /assets/images/CD3.jpg 
+    
+date: "2019-03-08"
 ---
 
 {% include feature_row %}

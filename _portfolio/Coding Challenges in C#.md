@@ -18,6 +18,8 @@ gallery_07_02:
     image_path: /assets/images/coding_questions_in_csharp_03.jpg
   - url: /assets/images/coding_questions_in_csharp_04.jpg
     image_path: /assets/images/coding_questions_in_csharp_04.jpg
+
+date: "2020-10-19"
 ---
 
 <!-- {% include feature_row %} -->
@@ -28,15 +30,13 @@ gallery_07_02:
 In this post, we will answer several programming challenge questions in C++. For easy testing of our single-file solutions, simply copy the entire source code and paste it into an online coding tool such as Coderpad at [https://coderpad.io/sandbox](https://coderpad.io/sandbox).
 
 ### Questions
-
 {: .notice--success}
 More programming challenge questions in C# will be added as time permits. Let me know if there is any particular problem you would like to have solved here.
 
 1. [Array Sum](#ArraySum)
+1. [Custom Stack](#CustomStack)
 
-
-<!-- 1. [Move memory without temporary variable](#memoryMove)
-1. [Match brackets in a string](#balancedBrackets)
+<!-- 1. [Match brackets in a string](#balancedBrackets)
 1. [Sum of bits in 32-bit binary representation](#sumOfBits)
 1. [Linked list - insert, delete, reverse](#linkedList)
 1. [Longest continuous sequence](#longestContinuousSequence)
@@ -45,21 +45,39 @@ More programming challenge questions in C# will be added as time permits. Let me
 1. [Kth largest](#kthLargest)
 1. [Mutatable priority queue](#mutatablePriorityQueue) -->
 
-
 ### Code
 The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp) contains the C# solution codes. To run each code type `dotnet run` in the command terminal.
 
 ### Solutions
-
 1. <a name="ArraySum"></a> Given an array of integers, find its sum. The code should be time efficient to handle arrays of size upto 10^12. To solve this, the array is recursively divided into two halves and added in separate threads.
 
     Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/ArraySum).
 
-<!-- 1. <a name="memoryMove"></a> Move memory of an array from one location to another pointed by a new array pointer, without using temporary variables. The new and old memory regions might be overlapping. Copy the source array from the front into the destination, if they overlap at the front of the source array. Whereas, copy the source from the rear into the destination, if they overlap at the rear of the source array.
+1. <a name="CustomStack"></a> Implement the custom stack with the following features. The stack should have the extra feature to increament the elements from the bottom of the stack. All the elements in the stack will be integers.
 
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/memMove.cpp).
+    + push i: push integer i to the top of the stack
+    + pop: pop out the top element of the stack
+    + inc n x: increment n elements of the stack from the bottom by x
 
-1. <a name="balancedBrackets"></a> Given a string containing just the characters '(', ')', '[', ']', '{', '}', determine if the input string is valid. An input string is valid if :
+    After each operation, print the top of the stack. If the stack is empty, print "EMPTY"
+
+    For Example:
+
+      |Operations | Stack* | Output | 
+      |-----------|--------|--------|
+      |push 3     | [3]    |       3|
+      |push 4     | [3,4]  |       4|
+      |inc 2 1    | [4,5]  |       5|
+      |pop        | [4]    |       4|
+      |push 5     | [4,5]  |       5|
+      |pop        | [4]    |       4|
+      |pop        | []     |   EMPTY|
+      
+    *Note: Right most of the list is top of the stack
+
+    Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/CustomStack).
+
+<!-- 1. <a name="balancedBrackets"></a> Given a string containing just the characters '(', ')', '[', ']', '{', '}', determine if the input string is valid. An input string is valid if :
     + Open brackets must be closed by the same type of brackets.
     + Open brackets must be closed in the correct order.
   
