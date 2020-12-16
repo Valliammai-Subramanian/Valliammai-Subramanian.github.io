@@ -5,6 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                    : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Software Developer"
@@ -28,6 +37,9 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : #['name', 'email', 'url', 'message']
   branch                 : #"master"
@@ -47,6 +59,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : google # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : 001685581343129067764:2mpudscs9a8 # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 # SEO Related
 google_site_verification : "hLChJULpr8HkF2JgFoXDozOF0JVo7iiFVKalV3XPk9I"
 bing_site_verification   :
@@ -80,32 +103,37 @@ author:
   avatar           : "/assets/images/Valliammai.jpg" # e.g. "/assets/images/bio-photo.jpg"
   bio              : "Don't limit your challenges, challenge your limits!"
   location         : "Ontario, Canada"
-  email            : valliammai.kothai@gmail.com
-  url              : "https://valliammai-subramanian.github.io/"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "valliammai-subramanian"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "valliammai-subramanian"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  email            : # valliammai.kothai@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:valliammai.kothai@gmail.com
+    - label: "Schedule a Chat"
+      icon: "fa fa-fw fa-calendar"
+      url: "/calendar/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/valliammai-subramanian"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/valliammai-subramanian"   
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://valliammai-subramanian.github.io/"
 
-
+# Site Footer
+footer:
+  links:
+    - label: "Schedule a Chat"
+      icon: "fa fa-fw fa-calendar"
+      url: "/calendar/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/valliammai-subramanian"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/valliammai-subramanian"
+      
 # Reading Files
 include:
   - .htaccess
@@ -290,10 +318,10 @@ compress_html:
     envs: development
 
 
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  docs:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   docs:
+#     output: true
+#     permalink: /:collection/:path/
