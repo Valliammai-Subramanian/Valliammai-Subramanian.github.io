@@ -2,7 +2,9 @@
 title: "Online Courses"
 feature_row:
   - image_path: /assets/images/unsplash-image-4.jpg
-
+categories:
+  - guides  
+last_modified_at: 2018-03-07    
 ---
 
 <p>Below is my personal guide to self learn the art of Software Development. It is assumed that you have substantial prior knowledge of computing, programming, and testing.</p>

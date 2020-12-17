@@ -1,7 +1,6 @@
 ---
 permalink: /publications/
-excerpt: "Publications"
-# last_modified_at: 2017-06-03
+excerpt: "Patents and publications"
 ---
 
 ## <a name="conferences"></a>Conferences

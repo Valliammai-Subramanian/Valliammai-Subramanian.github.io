@@ -1,15 +1,12 @@
 ---
 permalink: /cv/
 excerpt: "CV"
-# last_modified_at: 2018-01-29
 ---
 
-An up-to-date version of my CV is embedded below.
+An always-up-to-date version of my CV is embedded below. 
 
-I am always open to new opportunities. Feel free to contact me if you have an interesting niche role.
+I am always open to new opportunities. Feel free to contact me if you have an interesting niche role.   
 
-<a href="https://drive.google.com/uc?export=download&id=1TIFrbTNJfeuHQCcrMeK7onLHRw9q9F77" class="btn btn--info">Click here to download CV</a>
-
-<!--<iframe src="https://docs.google.com/viewer?srcid=1bz04dW7yf0e8KVj0Oz5VZb0QilxF8aEJ&pid=explorer&embedded=true"></iframe>-->
+[<i class="fas fa-download"></i> Download my CV](https://drive.google.com/uc?export=download&id=1TIFrbTNJfeuHQCcrMeK7onLHRw9q9F77){: .btn .btn--success}  <a href="/calendar/" class="btn btn--info">Schedule a chat with me</a>
 
 <iframe src="https://drive.google.com/file/d/1TIFrbTNJfeuHQCcrMeK7onLHRw9q9F77/preview" width="100%" height="800px" class="gde-frame" style="border: none;" scrolling="yes"></iframe>
