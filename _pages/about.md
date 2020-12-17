@@ -9,4 +9,4 @@ While studying at Lady Doak College, India, she worked on Web Designing projects
 
 Since March 2018 to April 2020, she was a Software Engineer - Full Stack Developer , at [Autoscan Technologies](http://www.autoscan.sg/), Singapore, working on mobile app development and windows applications, where she (i)	Worked closely with product owner at client Resorts World Sentosa (RWS) Casino, Singapore, to interpret requirements and translate them into software solutions (ii) Architected playing-cards and asset-management mobile applications using platform heterogenous Xamarin, for use in Android and iOS mobile (iii) Designed asset-management web application using C# (frontend) and SQL (backend), compatible with all mainstream browsers and deployed the applications in Microsoft Azure cloud.
 
-Her expertise lies in developing system software using C#, Xamarin, SQL, Java8, Angular6, JavaScript, and Microsoft Azure primarily for web applications and mobile applications.
+Her expertise lies in developing system software using C#, Xamarin, SQL, Angular6, and JavaScript primarily for web applications and mobile applications.
