@@ -12,6 +12,6 @@ Here, I delve into the world of Software Development. In truth, Software Develop
 
 Feel free to explore my site.
 
-+ The portfolio tab contains several of my lecture notes prepared for my juniors 
++ The portfolio tab contains several of my lecture notes and coding challenges prepared for my juniors 
 + The posts tab contains a quick self-learning guide for software developers
 + A quick self-learning guide for software developers can be found in my post <a href="https://valliammai-subramanian.github.io//Online-Courses/"> here </a>
