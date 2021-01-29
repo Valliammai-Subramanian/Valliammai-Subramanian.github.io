@@ -35,6 +35,7 @@ More programming challenge questions in C# will be added as time permits. Let me
 
 1. [Array Sum](#ArraySum)
 1. [Custom Stack](#CustomStack)
+1. [Extract String within braces](#ExtractString)
 
 <!-- 1. [Match brackets in a string](#balancedBrackets)
 1. [Sum of bits in 32-bit binary representation](#sumOfBits)
@@ -61,7 +62,7 @@ The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-c
 
     After each operation, print the top of the stack. If the stack is empty, print "EMPTY"
 
-    For Example:
+    Example:
 
       |Operations | Stack* | Output | 
       |-----------|--------|--------|
@@ -76,6 +77,32 @@ The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-c
     *Note: Right most of the list is top of the stack
 
     Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/CustomStack).
+
+1. <a name="ExtractString"></a> Given an stream of characters consisting of letters and brackets, extract all sequence of letters enclosed by parentheses. The brackets in the stream are always in pairs and valid.
+
+    Example: 
+    ```bash
+    # Input character stream :  (abc(d(e)f)) 
+    # Expected output : 
+    e
+    def
+    abcdef
+
+    # Input character stream : abc(def(gh(i)j)kl)
+    # Expected output :
+    i
+    ghij
+    defghijkl
+
+    # Input character stream: ((a)(b)cd(e)fg(h))ijk
+    # Expected output :
+    a
+    b
+    e
+    h
+    abcdefgh   
+    ``` 
+    Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/ExtractString).
 
 <!-- 1. <a name="balancedBrackets"></a> Given a string containing just the characters '(', ')', '[', ']', '{', '}', determine if the input string is valid. An input string is valid if :
     + Open brackets must be closed by the same type of brackets.
