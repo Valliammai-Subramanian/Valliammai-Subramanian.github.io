@@ -36,15 +36,8 @@ More programming challenge questions in C# will be added as time permits. Let me
 1. [Array Sum](#ArraySum)
 1. [Custom Stack](#CustomStack)
 1. [Extract String within braces](#ExtractString)
-
-<!-- 1. [Match brackets in a string](#balancedBrackets)
-1. [Sum of bits in 32-bit binary representation](#sumOfBits)
-1. [Linked list - insert, delete, reverse](#linkedList)
-1. [Longest continuous sequence](#longestContinuousSequence)
-1. [Longest sequence](#longestSequence)
-1. [Longest valid parentheses](#longestValidBrackets)
-1. [Kth largest](#kthLargest)
-1. [Mutatable priority queue](#mutatablePriorityQueue) -->
+1. [Find the missing integer in an array](#MissingInteger)
+1. [Smallest lexicographical word](#LexicographicalWord)
 
 ### Code
 The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp) contains the C# solution codes. To run each code type `dotnet run` in the command terminal.
@@ -104,135 +97,40 @@ The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-c
     ``` 
     Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/ExtractString).
 
-<!-- 1. <a name="balancedBrackets"></a> Given a string containing just the characters '(', ')', '[', ']', '{', '}', determine if the input string is valid. An input string is valid if :
-    + Open brackets must be closed by the same type of brackets.
-    + Open brackets must be closed in the correct order.
-  
-    Note that an empty string is also considered valid. String below are considered valid strings.
-    ```text
-    ""
-    "()"
-    "()[]{}"
-    "{[]}"
-    ```
-    Strings below are considered as invalid strings.
-    ```text
-    "["
-    "}{"
-    "{()"
-    "(]"
-    "([)]"
-    ```
+1. <a name="MissingInteger"></a> Given an array A of N integers, return the smallest positive integer (greater than 0) that does not occur in A. N is an integer within the range [1..100,000]. Each element of array A is an integer within the range [−1,000,000..1,000,000].
 
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/balancedBrackets.cpp).
-
-1. <a name="sumOfBits"></a> Count the number of 1's in a binary representation of a 32bit integer. A look-up table or hash map which stores integers and their corresponding bit count is used to solve this problem. Several test cases are shown below.
-    ```text
-    Input: 1 // binary = 0000 0001
-    Input: 5 // binary = 0000 0101
-    Input: 15 // binary = 0000 1111
-    Input: 19 // binary = 0001 0011
-    Input: 22 // binary = 0001 0110
-    ```
-    Expected output:
-    ```text
-    Output: 1
-    Output: 2
-    Output: 4
-    Output: 3
-    Output: 3
-    ```
-
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/sumOfBits.cpp).
-
-1. <a name="linkedList"></a> Create a singly linked list with the following operations: insert at the tail, given a pointer delete the node (except the last node), and reverse.
-
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/linkedList.cpp).
-
-1. <a name="longestContinuousSequence"></a> Given two strings, find the longest continuous sequence of characters common to the two strings. The problem is solved using dynamic programming pradigm. A testcase is as follows.
-    ```cpp
-    string str1 = "abcdefghijklmnopqrst";
-    string str2 = "abcd3ekl3abfgs";
-    ```
-    Expected output:
-    ```text
-    Max elements: 4
-    Max sequence: abcd
-    ``` 
-    
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/longestContinuousSequence.cpp). 
-
-1. <a name="longestSequence"></a> Given two strings, find the longest continuous or non-continous sequence with same ordering of characters common to the two strings. The problem is solved using dynamic programming pradigm. A testcase is as follows.
-    ```cpp
-    string str1 = "abcdefghijklmnopqrst";
-    string str2 = "abcd3ekl3abfgs";
-    ```
-    Expected output:
-    ```text
-    Max elements: 8
-    ``` 
-    
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/longestSequence.cpp). 
-
-1. <a name="longestValidBrackets"></a> Given a string containing just characters '(' and ')', return the start and end indexes of the longest valid parentheses substring. Several test cases are shown below.
-    ```text
-    Input: "" // answer: startIndex = 0, endIndex = 0
-    Input: "(()" // answer: startIndex = 1, endIndex = 2
-    Input: ")()())" // answer: startIndex = 1, endIndex = 4
-    Input: "())((())" // answer: startIndex = 4, endIndex = 7
-    Input: "())(()" // answer: startIndex = 0, endIndex = 1
-    ```
-    Expected output:
-    ```text
-    Longest valid parentheses of  is   , from  0 to  0
-    Longest valid parentheses of (() is () , from  1 to  2
-    Longest valid parentheses of )()()) is ()() , from  1 to  4
-    Longest valid parentheses of ())((()) is (()) , from  4 to  7
-    Longest valid parentheses of ())(() is () , from  0 to  1
-    ```
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/longestValidBrackets.cpp).
-
-1. <a name="kthLargest"></a> Return the kth largest element, from an infinite stream of integers, at any point in time. The problem is solved using a priority queue. The priority queue is implemented by a minimum heap of size k. Read the top value of the heap to get the kth largest value at any point in time. Example input:
-    ```cpp
-    vector<int> stream = {10, 20, 11, 70, 50, 40, 100, 5, ...};
-    int k = 3;
-    ```
-    Expected STDOUT output:
+    Example:
     ```bash
-    $ -, -, 10, 11, 20, 40, 50, 50, ...
-    ```
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/kthLargest.cpp).
+    # Input
+    A = [1, 3, 6, 4, 1, 2]
+    # Output
+    5
+    # Input
+    A = [1, 2, 3]
+    # Output
+    4
+    # Input
+    A = [−1, −3]
+    # Output
+    1
+    ``` 
 
-1. <a name="mutatablePriorityQueue"></a> Build a priority queue whose elements' priority can be updated dynamically. This problem is solved using the following two data structures:
-    + `unordered_map<>` functions as a `set` to hold all unique elements in the queue
-    + `multimap<>` functions to hold all inserted elements sorted by priority
+    Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/MissingInteger).
 
-    Operation of the data structres is as follows:
-    + New element, which is not present in `unordered_map<>`, is pushed into the `multimap<>` and `unordered_map<>`.
-    + New element, which is present in `unordered_map<>`, is pushed into the `multimap<>` if it has a higher priority. Priority of the element in `unordered_map<>` is incremented to the higher value.
-    + To `pop()` the highest priority element from the queue: Firstly, elements are sequentially removed from the top of the `multimap<>` until an element which is also present in `unordered_map<>` is reached. This helps remove duplicate entries present in `multimap<>`. Once reached, remove the element from both `multimap<>` and `unordered_map<>`. 
+1. <a name="LexicographicalWord"></a> Given a string S consisting of N characters, return the alphabetically smallest string that can be obtained by removing exactly one letter from S. Given S= "azb", by removing one letter, we can get "az","ab" or "zb". We should return "ab" (after removing 'z') since it is alphabetically smaller than "az" and "bz". N is an integer within the range [2..100,000]. String S consists only of lowercase letters (a-z).
 
-    Example testcase:
-    ```cpp
-    MutatablePriorityQueue mpq;
-    mpq.push('a',3); // value: 'a', priority: 3
-    cout << mpq.top() << "\n";
-    mpq.push('b',4); // value: 'b', priority: 4
-    mpq.push('c',3); // value: 'c', priority: 3
-    cout << mpq.top() << "\n";
-    mpq.push('a',5); // value: 'a', priority: 5
-    cout << mpq.top() << "\n";
-    mpq.pop();
-    cout << mpq.top() << "\n";
-    mpq.pop();
-    cout << mpq.top() << "\n";
-    ```
-    Expected STDOUT output:
+    Example: 
     ```bash
-    a
-    b
-    a
-    b
-    c
-    ```
-    Link to solution [code](https://github.com/Adaickalavan/coding-questions-in-cpp/blob/master/app/mutatablePriorityQueue.cpp). -->
+    # Input string : bus 
+    # Expected output : 
+    bs
+    
+    # Input string : possibility
+    # Expected output :
+    ossibility
+
+    # Input string: bbbbb
+    # Expected output :
+    bbbb   
+    ``` 
+    Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-csharp/tree/main/LexicographicalWord).
