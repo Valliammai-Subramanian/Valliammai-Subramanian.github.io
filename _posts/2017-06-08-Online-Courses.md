@@ -16,7 +16,7 @@ last_modified_at: 2018-03-07
 		<ul>
 			<li>Courses are conducted by university professors</li>
 			<li>Syllabus of online courses is similar to that in the corresponding university's on-campus program</li>
-			<li>Have standalone courses and Specializations</li>
+			<li>Have standalone courses and specializations</li>
 			<li>Free to audit, pay for verified certificate</li>
 		</ul>
 	</li>	
@@ -34,8 +34,8 @@ last_modified_at: 2018-03-07
 <ul>
 	<li><a href="https://www.udemy.com/">Udemy</a>
 		<ul>
-			<li>Courses are conducted by industry professionals/engineers</li>
-			<li>Syllabus is created by engineers, practical/project oriented teaching, and has less theoretical rigour</li>
+			<li>Courses are conducted by industry professionals and engineers</li>
+			<li>Syllabus is created by engineers, for practical/project oriented teaching, and has less theoretical rigour</li>
 			<li>Courses largely as a means of improving job-related skills </li>
 			<li>Free to audit standalone courses, pay for verified certificate</li>
 		</ul>
@@ -44,8 +44,8 @@ last_modified_at: 2018-03-07
 <ul>
 	<li><a href="https://www.udacity.com/">Udacity</a>
 		<ul>
-			<li>Courses are conducted by industry professionals/engineers</li>
-			<li>Syllabus is created by engineers, intuition/practical/project oriented teaching, and has less theoretical rigour</li>
+			<li>Courses are conducted by industry professionals and engineers</li>
+			<li>Syllabus is created by engineers, for intuition/practical/project oriented teaching, and has less theoretical rigour</li>
 			<li>Have standalone courses and Nanodegrees</li>
 			<li>Free to audit standalone courses, pay for verified certificate, and pay upfront for Nanodegrees</li>
 		</ul>
@@ -65,4 +65,4 @@ last_modified_at: 2018-03-07
     <li><a href="https://www.udacity.com/course/android-basics-data-storage--ud845">Android Basics: Data Storage</a></li>	
 </ol>
  
-<p>There are plenty of other Software Development courses available on the internet. It is a matter of trial and error in finding the good online courses. Please do share with me, if you find any other good online courses in Software Development.</p>
+<p>There are plenty of other Software development courses available on the internet. It is a matter of trial and error in finding the good online courses. Please do share with me, if you find any other good online courses in Software development.</p>
