@@ -80,7 +80,7 @@ The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-g
 
     Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-golang/tree/main/concatenate).
 
-1. <a name="KMeans"></a>Given a list of data points and a list of centroids, perform K-Means clustering to return a new set of updated centroids. Goroutines are used to parallelize the code execution.
+1. <a name="kMeans"></a>Given a list of data points and a list of centroids, perform K-Means clustering to return a new set of updated centroids. Goroutines are used to parallelize the code execution.
 
     Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-golang/tree/main/kMeans).
 
@@ -108,22 +108,24 @@ The [repository](https://github.com/Valliammai-Subramanian/coding-questions-in-g
 
 1. <a name="Substring"></a>Array A contains a sequence of names and array B contains numbers corresponding to the names in array A. Given a string S of length N representing a partial number, find the name whose number contains S as a contiguous substring. For example, "5900" is a contiguous substring of "43590012", whereas "3514" is not a contiguous substring.
 
-If there is more than one name matching the search criteria, return the alphabetically smallest name.
+    If there is more than one name matching the search criteria, return the alphabetically smallest name.
 
-If no match is found, return "NO MATCH".
+    If no match is found, return "NO MATCH".
 
-    Example: 
+    Example:
+
     ```bash
-    # Input Arrays : A=["sam","sha"], B=["888888888","555777888"] and P="77888"
+    # Input arrays : A=["sam","sha"], B=["888888888","555777888"] and P="77888"
     # Expected output : 
     sha
     
-    # Input Arrays : A=["shan","aemy","anna","mike"], B=["123456789","234567890","789123456","431431431"] and P="1"
+    # Input arrays : A=["shan","aemy","anna","mike"], B=["123456789","234567890","789123456","431431431"] and P="1"
     # Expected output :
     anna
 
-    # Input Arrays: A=["nisha","nancy","leo"], B=["121212121","111111111","444555666"] and P="112"
+    # Input arrays: A=["nisha","nancy","leo"], B=["121212121","111111111","444555666"] and P="112"
     # Expected output :
     NO MATCH 
-    ``` 
+    ```
+
     Link to solution [code](https://github.com/Valliammai-Subramanian/coding-questions-in-golang/tree/main/substring).
