@@ -27,7 +27,7 @@ date: "2020-10-19"
 {% include toc %}
 
 ### Info
-In this post, we will answer several programming challenge questions in C++. For easy testing of our single-file solutions, simply copy the entire source code and paste it into an online coding tool such as Coderpad at [https://coderpad.io/sandbox](https://coderpad.io/sandbox).
+In this post, we will answer several programming challenge questions in C#. For easy testing of our single-file solutions, simply copy the entire source code and paste it into an online coding tool such as Coderpad at [https://coderpad.io/sandbox](https://coderpad.io/sandbox).
 
 ### Questions
 {: .notice--success}
